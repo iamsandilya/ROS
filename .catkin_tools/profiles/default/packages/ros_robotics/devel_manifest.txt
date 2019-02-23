@@ -1,0 +1,4 @@
+ros_robotics
+/home/gec/catkin_ws/devel/.private/ros_robotics/share/ros_robotics/cmake/ros_roboticsConfig.cmake /home/gec/catkin_ws/devel/share/ros_robotics/cmake/ros_roboticsConfig.cmake
+/home/gec/catkin_ws/devel/.private/ros_robotics/share/ros_robotics/cmake/ros_roboticsConfig-version.cmake /home/gec/catkin_ws/devel/share/ros_robotics/cmake/ros_roboticsConfig-version.cmake
+/home/gec/catkin_ws/devel/.private/ros_robotics/lib/pkgconfig/ros_robotics.pc /home/gec/catkin_ws/devel/lib/pkgconfig/ros_robotics.pc

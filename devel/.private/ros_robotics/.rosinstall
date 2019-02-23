@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gec/catkin_ws/devel/.private/ros_robotics/setup.sh

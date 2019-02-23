@@ -1,0 +1,1 @@
+/home/gec/catkin_ws/devel/.private/ros_robotics/share/ros_robotics/cmake/ros_roboticsConfig-version.cmake

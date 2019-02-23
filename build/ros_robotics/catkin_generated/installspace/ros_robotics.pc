@@ -1,0 +1,8 @@
+prefix=/home/gec/catkin_ws/install
+
+Name: ros_robotics
+Description: Description of ros_robotics
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gec/catkin_ws/install/lib 
+Requires: 

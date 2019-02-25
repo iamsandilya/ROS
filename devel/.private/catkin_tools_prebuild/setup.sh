@@ -92,4 +92,6 @@ while [ $_i -lt $_CATKIN_ENVIRONMENT_HOOKS_COUNT ]; do
 done
 unset _i
 
+export TURTLEBOT_3D_SENSOR=kinect
 unset _CATKIN_ENVIRONMENT_HOOKS_COUNT
+
